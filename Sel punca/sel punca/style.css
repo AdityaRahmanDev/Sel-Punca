@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fffff0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+p,
+span,
+button,
+ul,
+li {
+  font-family: "Poppins", sans-serif;
+}
+
+a,
+a:hover,
+a:focus {
+  font-family: "Poppins", sans-serif;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.breadcrumb a {
+  color: #000000;
+}
+
+.mag-breadcrumb {
+  margin-top: 80px;
+}
+
+.breadcrumb-item a:hover {
+  text-decoration: none;
+}
+
+.custom-header {
+  background-color: #f5f7f6;
+  padding: 10px 20px;
+  border-left: 5px solid #d6e9c6; /* Light green left border */
+}
+
+.custom-header h5 {
+  margin: 0;
+  font-weight: bold;
+}
+
+img {
+    width:200px;
+    height:200px;
+}
